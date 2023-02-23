@@ -1,5 +1,6 @@
 ﻿namespace Metanit_07_Interfaces
 {
+    /*
     internal class C01_Interfaces
     {
         static void Main(string[] args)
@@ -33,4 +34,5 @@
         //property with default realisation
         int MaxSpeed { get { return 0; }  }
     }
+    */
 }
