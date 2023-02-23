@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metanit_07_Interfaces", "Metanit_07_Interfaces\Metanit_07_Interfaces.csproj", "{9F05177B-7B55-45AD-A792-58CF74065F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F05177B-7B55-45AD-A792-58CF74065F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F05177B-7B55-45AD-A792-58CF74065F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F05177B-7B55-45AD-A792-58CF74065F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F05177B-7B55-45AD-A792-58CF74065F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA3C35D-AE47-41DA-8CD6-0CD205166FB5}
+	EndGlobalSection
+EndGlobal
