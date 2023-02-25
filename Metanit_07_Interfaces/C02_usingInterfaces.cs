@@ -1,4 +1,4 @@
-﻿
+﻿/*
 namespace Metanit_07_Interfaces
 {
     internal class C02_usingInterfaces
@@ -67,3 +67,4 @@ namespace Metanit_07_Interfaces
         // defMethod()
     }
 }
+*/
