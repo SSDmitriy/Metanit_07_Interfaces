@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
 
 namespace Metanit_07_Interfaces
 {
@@ -48,3 +49,5 @@ namespace Metanit_07_Interfaces
         }
     }
 }
+
+*/
