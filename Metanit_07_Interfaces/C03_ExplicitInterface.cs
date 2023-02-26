@@ -1,4 +1,4 @@
-﻿
+﻿/*
 namespace Metanit_07_Interfaces
 {
     internal class C03_ExplicitInterface
@@ -111,3 +111,4 @@ namespace Metanit_07_Interfaces
 
     }
 }
+*/

@@ -1,4 +1,4 @@
-﻿
+﻿/*
 namespace Metanit_07_Interfaces
 {
     interface IMovable
@@ -11,3 +11,4 @@ namespace Metanit_07_Interfaces
         }
     }
 }
+*/
