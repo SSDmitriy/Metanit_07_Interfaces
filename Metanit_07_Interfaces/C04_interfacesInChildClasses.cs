@@ -1,5 +1,6 @@
 ﻿
-
+// https://metanit.com/sharp/tutorial/3.47.php
+/*
 namespace Metanit_07_Interfaces
 {
     internal class C04_interfacesInChildClasses
@@ -193,3 +194,5 @@ namespace Metanit_07_Interfaces
     }
 
 }
+
+*/
