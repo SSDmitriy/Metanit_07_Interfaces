@@ -1,5 +1,5 @@
 ﻿//https://metanit.com/sharp/tutorial/3.48.php
-
+/*
 namespace Metanit_07_Interfaces
 {
     internal class C05_InheritanceOfInterfaces
@@ -79,3 +79,5 @@ namespace Metanit_07_Interfaces
 
     }
 }
+
+*/
