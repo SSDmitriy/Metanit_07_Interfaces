@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿/*
 namespace Metanit_07_Interfaces
 {
     internal class C06_interfacesLikeGeneric
@@ -26,11 +21,8 @@ namespace Metanit_07_Interfaces
             IUser<string> user2 = new User<string>("1212");
             Console.WriteLine("User1 ID: " + user2.Id);
 
-
         }
-
-
-
+        
     }
 
 
@@ -83,3 +75,5 @@ namespace Metanit_07_Interfaces
         }
     }
 }
+
+*/
