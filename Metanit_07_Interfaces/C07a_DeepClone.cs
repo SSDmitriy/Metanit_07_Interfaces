@@ -1,5 +1,6 @@
 ﻿
 //https://metanit.com/sharp/tutorial/3.22.php
+/*
 namespace Metanit_07_Interfaces
 {
     internal class C07_ICloneable
@@ -43,3 +44,6 @@ namespace Metanit_07_Interfaces
         public Company(string name) => Name = name;
     }
 }
+
+
+*/
