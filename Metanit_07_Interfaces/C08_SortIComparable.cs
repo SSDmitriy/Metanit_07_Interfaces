@@ -7,6 +7,7 @@
 //      int CompareTo(object? o);
 // }
 
+/*
 namespace Metanit_07_Interfaces
 {
     internal class C08_SortIComparable
@@ -32,13 +33,50 @@ namespace Metanit_07_Interfaces
             Person[] people = new Person[] {tom, bob, sam};
             Array.Sort(people);
 
+
+            
+
             foreach(Person person in people)
             {
                 Console.WriteLine($"{person.Name} - {person.Age}");
             }
+            Console.WriteLine("\n");
+
+
+            var a = new A("aa", 44);
+            var b = new A("bb", 33);
+            var c = new A("jjj", 22);
+            var j = new A("sss",11);
+            A[] aa = new A[] { a, b, c, j };
+            Array.Sort(aa);
+            Console.WriteLine("\n");
+            foreach (A item in aa)
+            {
+                Console.WriteLine($"{item.Name} - {item.Age}");
+            }
         }
     }
 
+    class A : IComparable
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public A(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
+
+        public int CompareTo(object obj)
+        {
+            A p = (A)obj;
+            Console.WriteLine("thisName: " + this.Name + "  p.Name: " + p.Name);
+            Console.WriteLine(Age.CompareTo(p.Age));
+            return Age.CompareTo(p.Age);
+
+        }
+
+    }
 
     class Person : IComparable
     {
@@ -59,3 +97,5 @@ namespace Metanit_07_Interfaces
 
 
 }
+
+*/
