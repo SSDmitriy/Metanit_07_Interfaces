@@ -4,6 +4,7 @@
 //    int Compare(T? x, T? y);
 //}
 
+/*
 using System.Collections;
 
 namespace Metanit_07_Interfaces
@@ -53,3 +54,5 @@ namespace Metanit_07_Interfaces
         }
     }
 }
+
+*/
